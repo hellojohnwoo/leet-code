@@ -1,4 +1,4 @@
-# leet-code
+# leet code
 Algorithm Problem in Java (Javaアルゴリズム問題のサイトです。)<br><br>
 
 
